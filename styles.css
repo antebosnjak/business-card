@@ -1,14 +1,12 @@
 body {
 
-font-family: Verdana, Geneva, Tahoma, sans-serif;
-padding: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 100px;
 
 
 }
 
-img 
-
-{
+img {
     width: 150px;
     border-radius: 50%;
 
